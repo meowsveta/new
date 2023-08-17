@@ -1,4 +1,4 @@
-public class Main {
+public class Task2 {
 
      public static int a = 100;
      public static int b = 200;
